@@ -1,0 +1,408 @@
+Brand;Model;Screen Size (inches);Camera (MP);Battery Capacity (mAh);Price ($);Storage_GB;Ram_GB;Categorie
+apple;iphone 13 pro;6.1;12;3095;999;128;6;haut de gamme
+samsung;galaxy s21 ultra;6.8;108;5000;1199;256;12;haut de gamme
+oneplus;9 pro;6.7;48;4500;899;128;8;haut de gamme
+xiaomi;redmi note 10 pro;6.6;64;5020;279;128;6;bas de gamme
+google;pixel 6;6.4;50;4614;799;128;8;haut de gamme
+apple;iphone 13;6.1;12;2815;799;128;4;haut de gamme
+samsung;galaxy z flip3;6.7;12;3300;999;256;8;haut de gamme
+xiaomi;poco x3 pro;6.6;48;5160;249;128;6;bas de gamme
+oppo;reno6 pro+ 5g;6.5;50;4500;699;128;8;moyenne gamme
+vivo;x70 pro+;6.7;50;4500;1199;256;12;haut de gamme
+oneplus;nord ce 5g;6.4;64;4500;329;128;6;moyenne gamme
+samsung;galaxy a52s 5g;6.5;64;4500;449;128;6;moyenne gamme
+realme;gt neo2;6.6;64;5000;329;128;8;moyenne gamme
+apple;iphone 12 mini;5.4;12;2227;699;64;4;moyenne gamme
+oppo;find x3 pro;6.7;50;4500;1199;256;12;haut de gamme
+xiaomi;mi 11 lite 5g ne;6.5;64;4250;329;128;6;moyenne gamme
+samsung;galaxy s21;6.2;64;4000;799;128;8;haut de gamme
+vivo;y20s (g);6.5;50;5000;199;128;6;bas de gamme
+realme;8s 5g;6.5;48;5000;299;128;6;bas de gamme
+oppo;a94;6.4;48;4310;379;128;8;moyenne gamme
+xiaomi;redmi 10 prime;6.5;50;6000;179;128;6;bas de gamme
+samsung;galaxy a22 5g;6.6;48;5000;279;128;4;bas de gamme
+realme;narzo 50 pro 5g;6.5;48;5000;249;128;6;bas de gamme
+oneplus;9;6.5;48;4500;729;128;8;haut de gamme
+xiaomi;redmi note 10 pro max;6.6;108;5020;279;128;6;bas de gamme
+apple;iphone 11;6.1;12;3110;599;64;4;moyenne gamme
+samsung;galaxy a03s;6.5;13;5000;139;32;3;bas de gamme
+oppo;a74 5g;6.5;48;5000;299;128;6;bas de gamme
+vivo;y12s (2021);6.5;13;5000;139;32;3;bas de gamme
+realme;9i;6.5;50;6000;189;128;4;bas de gamme
+samsung;galaxy m52 5g;6.7;64;5000;449;128;6;moyenne gamme
+xiaomi;redmi 10;6.5;50;5000;179;128;4;bas de gamme
+apple;iphone se (2nd gen);4.7;12;1821;399;64;3;moyenne gamme
+oppo;a53s;6.5;13;5000;259;128;6;bas de gamme
+vivo;y33s;6.5;50;5000;279;128;8;bas de gamme
+realme;c25s;6.5;13;6000;159;128;4;bas de gamme
+samsung;galaxy a22 4g;6.4;48;5000;229;128;6;bas de gamme
+oneplus;nord 2 5g;6.4;50;4500;399;128;8;moyenne gamme
+xiaomi;poco m3 pro 5g;6.5;48;5000;199;64;4;bas de gamme
+apple;iphone xr;6.1;12;2942;499;64;3;moyenne gamme
+oppo;a16;6.5;13;5000;159;64;3;bas de gamme
+realme;c21y;6.5;13;5000;129;64;4;bas de gamme
+samsung;galaxy f22;6.4;48;6000;189;64;4;bas de gamme
+oppo;f19 pro+ 5g;6.4;64;4310;399;128;8;moyenne gamme
+xiaomi;mi 11x;6.6;48;4520;529;128;8;moyenne gamme
+apple;iphone 12 mini;5.4;12;2227;699;64;4;moyenne gamme
+vivo;v21e;6.4;64;4000;369;128;8;moyenne gamme
+realme;8 5g;6.5;48;5000;199;128;4;bas de gamme
+samsung;galaxy m12;6.5;48;6000;159;64;4;bas de gamme
+oppo;a16s;6.5;13;5000;179;64;4;bas de gamme
+xiaomi;redmi 9 power;6.5;48;6000;189;128;4;bas de gamme
+apple;iphone 11 pro max;6.5;12;3969;1099;256;4;haut de gamme
+vivo;y20g;6.5;13;5000;169;64;4;bas de gamme
+realme;narzo 50i;6.5;50;5000;99;32;2;bas de gamme
+samsung;galaxy a52s 5g;6.5;64;4500;459;128;6;moyenne gamme
+oppo;a54;6.5;13;5000;239;128;4;bas de gamme
+xiaomi;redmi 9t;6.5;48;6000;199;128;4;bas de gamme
+apple;iphone 13 pro max;6.7;12;4352;1299;256;6;haut de gamme
+vivo;y33;6.5;50;5000;249;128;8;bas de gamme
+samsung;galaxy a72;6.7;64;5000;429;128;8;moyenne gamme
+oppo;reno6 pro 5g;6.5;64;4500;659;128;12;moyenne gamme
+xiaomi;poco m3 pro 5g;6.5;48;5000;199;64;4;bas de gamme
+apple;iphone se (2020);4.7;12;1821;399;64;3;moyenne gamme
+vivo;y53s;6.5;64;5000;269;128;8;bas de gamme
+realme;7i;6.5;64;5000;239;128;8;bas de gamme
+samsung;galaxy a52 5g;6.5;64;4500;449;128;6;moyenne gamme
+oppo;f19 pro;6.4;48;4310;359;128;8;moyenne gamme
+xiaomi;redmi note 10s;6.4;64;5000;229;128;6;bas de gamme
+apple;iphone xr;6.1;12;2942;499;64;3;moyenne gamme
+vivo;y21s;6.5;50;5000;179;128;4;bas de gamme
+realme;c25s;6.5;13;6000;169;128;4;bas de gamme
+samsung;galaxy a22 5g;6.6;48;5000;239;128;4;bas de gamme
+oppo;a94;6.4;48;4310;329;128;8;moyenne gamme
+xiaomi;mi 11 lite 5g;6.5;64;4250;369;128;6;moyenne gamme
+apple;iphone 11;6.1;12;3110;599;128;4;moyenne gamme
+vivo;x60 pro;6.5;48;4200;799;256;12;haut de gamme
+realme;narzo 50a;6.5;50;5000;139;64;4;bas de gamme
+apple;iphone 13;6.1;12;2815;799;128;4;haut de gamme
+samsung;galaxy s21;6.2;64;4000;799;128;8;haut de gamme
+oneplus;nord 2;6.4;50;4500;399;128;8;moyenne gamme
+google;pixel 6;6.4;50;4600;699;128;8;moyenne gamme
+xiaomi;poco x4 pro;6.6;48;5160;329;128;6;moyenne gamme
+realme;gt master edition;6.4;64;4300;399;128;8;moyenne gamme
+vivo;x70 pro+;6.7;50;4450;999;256;12;haut de gamme
+oppo;reno6 pro+;6.5;50;4500;699;256;12;moyenne gamme
+motorola;edge 20 pro;6.7;108;4500;699;256;12;moyenne gamme
+nokia;xr20;6.6;48;4630;549;128;6;moyenne gamme
+sony;xperia 5 iii;6.1;12;4500;1;128;8;bas de gamme
+lg;wing;6.8;64;4000;999;256;8;haut de gamme
+asus;zenfone 8 flip;6.6;64;5000;899;256;8;haut de gamme
+blackberry;key2 le;4.5;13;3000;399;64;4;moyenne gamme
+samsung;galaxy a72;6.7;64;5000;449;128;6;moyenne gamme
+xiaomi;redmi note 10 pro max;6.6;108;5020;319;128;6;moyenne gamme
+realme;narzo 50 pro 5g;6.5;48;5000;269;128;8;bas de gamme
+oppo;f19 pro+;6.4;48;4310;349;128;8;moyenne gamme
+vivo;y33s;6.5;50;5000;269;128;8;bas de gamme
+motorola;moto g60;6.8;108;6000;279;128;6;bas de gamme
+nokia;5.4;6.3;48;4000;249;64;4;bas de gamme
+lg;k92 5g;6.7;64;4000;349;128;6;moyenne gamme
+asus;zenfone 8;5.9;64;4000;699;128;6;moyenne gamme
+blackberry;key2;4.5;12;3500;699;64;6;moyenne gamme
+cat;s42;5.5;13;4200;299;32;3;bas de gamme
+samsung;galaxy z flip 3;6.7;12;3300;999;128;8;haut de gamme
+oneplus;9 pro;6.7;48;4500;969;256;12;haut de gamme
+xiaomi;mi 11 ultra;6.8;50;5000;1;256;12;bas de gamme
+oppo;a16;6.5;13;5000;149;32;3;bas de gamme
+vivo;y12a;6.5;13;5000;139;32;3;bas de gamme
+nokia;c20 plus;6.5;8;4950;99;32;3;bas de gamme
+samsung;galaxy s20 fe 5g;6.5;12;4500;699;128;6;moyenne gamme
+motorola;moto e7i power;6.5;13;5000;99;32;2;bas de gamme
+xiaomi;poco m3 pro 5g;6.5;48;5000;199;128;6;bas de gamme
+realme;c21y;6.5;13;5000;169;64;4;bas de gamme
+asus;rog phone 5;6.7;64;6000;999;128;8;haut de gamme
+lg;velvet 5g;6.8;48;4300;499;128;6;moyenne gamme
+blackberry;evolve;5.9;12;4000;399;64;6;moyenne gamme
+oppo;reno 6 pro+;6.5;50;4500;799;256;12;haut de gamme
+samsung;galaxy a03s;6.5;13;5000;179;64;4;bas de gamme
+xiaomi;redmi 10 prime;6.5;50;6000;219;128;6;bas de gamme
+motorola;moto g50;6.5;48;5000;249;64;4;bas de gamme
+realme;narzo 50a;6.5;50;6000;149;64;4;bas de gamme
+nokia;g20;6.5;48;5050;199;64;4;bas de gamme
+samsung;galaxy m32;6.4;64;6000;279;128;6;bas de gamme
+vivo;y20g;6.5;13;5000;179;64;4;bas de gamme
+asus;zenfone 8 flip;6.6;64;5000;899;128;8;haut de gamme
+oppo;a54;6.5;50;5000;269;128;6;bas de gamme
+samsung;galaxy f22;6.4;48;6000;229;128;6;bas de gamme
+xiaomi;mi 11 lite 5g;6.5;64;4250;399;128;6;moyenne gamme
+realme;8i;6.6;50;5000;239;128;4;bas de gamme
+nokia;c30;6.8;13;6000;149;64;3;bas de gamme
+samsung;galaxy a32;6.4;64;5000;279;128;6;bas de gamme
+xiaomi;redmi note 10 pro max;6.6;108;5020;329;128;8;moyenne gamme
+realme;c21y;6.5;13;5000;149;64;4;bas de gamme
+nokia;xr20;6.6;48;4630;549;128;6;moyenne gamme
+samsung;galaxy a52s 5g;6.5;64;4500;449;128;6;moyenne gamme
+vivo;y33s;6.5;50;5000;279;128;8;bas de gamme
+oppo;a16s;6.5;13;5000;199;64;4;bas de gamme
+motorola;moto g stylus 5g;6.8;48;5000;399;128;5;moyenne gamme
+xiaomi;poco m3 pro 5g;6.5;48;5000;179;64;4;bas de gamme
+realme;gt neo2;6.6;64;5000;399;128;8;moyenne gamme
+nokia;c20 plus;6.5;8;4950;109;32;3;bas de gamme
+samsung;galaxy a21s;6.5;48;5000;219;128;4;bas de gamme
+vivo;y12s;6.5;13;5000;149;32;3;bas de gamme
+oppo;f19s;6.4;48;5000;299;128;6;bas de gamme
+realme;narzo 30 pro 5g;6.5;48;5000;279;128;8;bas de gamme
+samsung;galaxy a03s;6.5;13;5000;149;32;3;bas de gamme
+xiaomi;redmi 10 prime;6.5;50;6000;189;128;4;bas de gamme
+motorola;moto g pure;6.5;48;5000;169;32;3;bas de gamme
+oppo;reno6 z 5g;6.4;64;4310;389;128;8;moyenne gamme
+samsung;galaxy s21 ultra 5g;6.8;108;5000;1;256;12;bas de gamme
+vivo;y53s;6.5;64;5000;299;128;8;bas de gamme
+realme;8i;6.6;50;5000;219;128;4;bas de gamme
+nokia;g50;6.8;48;5000;299;64;4;bas de gamme
+xiaomi;redmi 9 activ;6.5;13;5000;149;64;4;bas de gamme
+oppo;a54s;6.5;50;5000;249;128;6;bas de gamme
+samsung;galaxy m22;6.4;48;5000;219;128;4;bas de gamme
+motorola;moto g power 2022;6.6;48;5000;249;128;4;bas de gamme
+vivo;y21s;6.5;50;5000;179;128;4;bas de gamme
+xiaomi;poco x3 gt;6.6;64;5000;299;128;8;bas de gamme
+samsung;galaxy f42 5g;6.6;64;5000;309;128;8;moyenne gamme
+oppo;a16s;6.5;13;5000;179;128;4;bas de gamme
+vivo;v21e;6.4;64;4000;369;128;8;moyenne gamme
+realme;gt master edition;6.4;64;4300;349;128;6;moyenne gamme
+motorola;edge 20 fusion;6.7;108;5000;499;128;6;moyenne gamme
+samsung;galaxy a21s;6.5;48;5000;199;64;4;bas de gamme
+xiaomi;redmi note 10s;6.4;64;5000;229;128;6;bas de gamme
+oppo;a74 5g;6.5;48;5000;299;128;6;bas de gamme
+realme;c21;6.5;13;5000;129;64;3;bas de gamme
+samsung;galaxy m52 5g;6.7;64;5000;449;128;6;moyenne gamme
+vivo;v21 5g;6.4;64;4000;499;128;8;moyenne gamme
+xiaomi;redmi note 9 pro max;6.6;64;5020;279;128;6;bas de gamme
+motorola;moto g stylus 5g;6.8;48;5000;399;128;5;moyenne gamme
+oppo;reno6 pro+ 5g;6.5;50;4500;849;256;12;haut de gamme
+realme;narzo 30 pro 5g;6.5;48;5000;279;128;6;bas de gamme
+samsung;galaxy a32;6.4;64;5000;299;128;4;bas de gamme
+xiaomi;poco x3 pro;6.6;48;5160;249;128;6;bas de gamme
+realme;c25s;6.5;13;6000;149;128;4;bas de gamme
+motorola;moto g power 2021;6.6;48;5000;199;64;4;bas de gamme
+samsung;galaxy a52s 5g;6.5;64;4500;469;128;6;moyenne gamme
+vivo;v21e 5g;6.4;64;4000;329;128;8;moyenne gamme
+oppo;a53s 5g;6.5;13;5000;279;128;6;bas de gamme
+realme;gt neo2;6.6;64;5000;369;128;8;moyenne gamme
+samsung;galaxy m32;6.4;64;6000;269;128;4;bas de gamme
+xiaomi;mi 11 lite ne;6.5;64;4250;329;128;6;moyenne gamme
+motorola;moto g stylus 2021;6.4;48;4000;299;128;4;bas de gamme
+oppo;a54s 5g;6.5;48;5000;299;128;6;bas de gamme
+samsung;galaxy f41;6.4;64;6000;239;128;6;bas de gamme
+xiaomi;redmi note 10 pro;6.6;64;5020;329;128;6;moyenne gamme
+realme;narzo 50a;6.5;50;5000;149;128;4;bas de gamme
+oppo;a16s;6.5;13;5000;189;64;4;bas de gamme
+samsung;galaxy m52;6.7;64;5000;449;128;6;moyenne gamme
+vivo;v21 5g;6.4;64;4000;399;128;8;moyenne gamme
+motorola;moto g50s;6.5;48;5000;249;128;4;bas de gamme
+samsung;galaxy a13;6.5;50;5000;189;64;4;bas de gamme
+xiaomi;redmi 9 activ;6.5;50;5000;209;128;6;bas de gamme
+realme;7i;6.5;64;5000;199;128;8;bas de gamme
+oppo;a74 5g;6.5;48;5000;299;128;6;bas de gamme
+samsung;galaxy a42 5g;6.6;48;5000;329;128;4;moyenne gamme
+vivo;y33s;6.5;50;5000;249;128;8;bas de gamme
+motorola;moto g9 power lite;6.5;48;6000;149;64;4;bas de gamme
+realme;c21y;6.5;13;5000;119;64;4;bas de gamme
+samsung;galaxy a22;6.4;48;5000;219;128;4;bas de gamme
+xiaomi;redmi note 10s;6.4;64;5000;279;128;6;bas de gamme
+oppo;a74;6.4;48;5000;299;128;6;bas de gamme
+samsung;galaxy a32;6.4;64;5000;269;128;4;bas de gamme
+vivo;y72 5g;6.5;64;5000;339;128;8;moyenne gamme
+motorola;moto g60;6.8;108;6000;299;128;6;bas de gamme
+xiaomi;mi 10i;6.6;108;4820;319;128;6;moyenne gamme
+realme;narzo 30 pro;6.5;48;5000;279;128;8;bas de gamme
+samsung;galaxy m62;6.7;64;7000;429;128;8;moyenne gamme
+oppo;a53s;6.5;50;5000;269;128;6;bas de gamme
+xiaomi;redmi 10 prime;6.5;50;6000;199;128;6;bas de gamme
+realme;c25s;6.5;13;6000;159;128;4;bas de gamme
+samsung;galaxy a12;6.5;48;5000;179;64;4;bas de gamme
+xiaomi;poco x3 pro;6.6;48;5160;299;128;6;bas de gamme
+samsung;galaxy a03s;6.5;13;5000;149;64;4;bas de gamme
+oppo;a15s;6.5;13;4230;169;64;4;bas de gamme
+realme;c11 2021;6.5;8;5000;99;32;2;bas de gamme
+nokia;c30;6.8;13;6000;149;32;2;bas de gamme
+xiaomi;redmi 9i;6.5;13;5000;139;64;4;bas de gamme
+samsung;galaxy a22 5g;6.6;48;5000;279;128;4;bas de gamme
+oppo;a53;6.5;13;5000;219;128;6;bas de gamme
+vivo;y12s;6.5;13;5000;149;32;3;bas de gamme
+xiaomi;mi 11 lite 5g;6.5;64;4250;429;128;8;moyenne gamme
+realme;7 5g;6.5;48;5000;279;128;6;bas de gamme
+samsung;galaxy m31s;6.5;64;6000;379;128;6;moyenne gamme
+oppo;a15;6.5;13;4230;149;32;3;bas de gamme
+nokia;g10;6.5;13;5050;169;32;3;bas de gamme
+xiaomi;poco x3 gt;6.6;64;5000;329;128;8;moyenne gamme
+realme;c25;6.5;13;6000;179;64;4;bas de gamme
+xiaomi;redmi note 10 pro max;6.6;108;5020;329;128;8;moyenne gamme
+samsung;galaxy a52 5g;6.5;64;4500;449;128;6;moyenne gamme
+oppo;a94;6.4;48;4310;399;128;8;moyenne gamme
+vivo;y33s;6.5;50;5000;289;128;8;bas de gamme
+realme;narzo 50a;6.5;50;5000;149;64;4;bas de gamme
+nokia;x20;6.6;64;4470;449;128;6;moyenne gamme
+xiaomi;redmi 9 power;6.5;48;6000;199;128;4;bas de gamme
+samsung;galaxy m12;6.5;48;6000;179;64;4;bas de gamme
+oppo;a53s;6.5;13;5000;229;128;6;bas de gamme
+vivo;y20s g;6.5;50;5000;209;128;6;bas de gamme
+realme;c21y;6.5;13;5000;139;64;4;bas de gamme
+nokia;c20 plus;6.5;8;4950;99;32;3;bas de gamme
+xiaomi;redmi 10 prime;6.5;50;6000;199;128;4;bas de gamme
+oppo;reno 6 pro 5g;6.5;64;4500;549;128;12;moyenne gamme
+vivo;y31s;6.5;13;5000;239;128;6;bas de gamme
+realme;8 5g;6.5;48;5000;299;128;8;bas de gamme
+nokia;g20;6.5;48;5050;199;64;4;bas de gamme
+xiaomi;poco x3 pro;6.6;48;5160;249;128;6;bas de gamme
+samsung;galaxy a32 5g;6.5;48;5000;279;128;4;bas de gamme
+oppo;a16;6.5;13;5000;149;32;3;bas de gamme
+vivo;v21 5g;6.4;64;4000;469;128;8;moyenne gamme
+realme;c11 2021;6.5;8;5000;99;32;2;bas de gamme
+nokia;5.4;6.3;48;4000;249;128;4;bas de gamme
+xiaomi;redmi note 10;6.4;48;5000;199;64;4;bas de gamme
+samsung;galaxy f41;6.4;64;6000;249;64;6;bas de gamme
+oppo;a54;6.5;48;5000;249;128;6;bas de gamme
+vivo;v20 se;6.4;48;4100;319;128;8;moyenne gamme
+nokia;3.4;6.3;13;4000;179;64;3;bas de gamme
+xiaomi;redmi note 9 pro max;6.6;64;5020;279;64;6;bas de gamme
+samsung;galaxy m31s;6.5;64;6000;349;128;8;moyenne gamme
+oppo;a54;6.5;13;5000;219;128;4;bas de gamme
+vivo;y12s;6.5;13;5000;149;32;3;bas de gamme
+realme;c20;6.5;8;5000;99;32;2;bas de gamme
+nokia;1.4;6.5;8;4000;119;32;2;bas de gamme
+xiaomi;redmi 9 power;6.5;48;6000;169;64;4;bas de gamme
+samsung;galaxy a02s;6.5;13;5000;139;32;3;bas de gamme
+oppo;a15s;6.5;13;4230;159;64;4;bas de gamme
+vivo;y51a;6.5;48;5000;289;128;8;bas de gamme
+realme;narzo 20;6.5;48;6000;199;64;4;bas de gamme
+nokia;5.3;6.5;13;4000;199;64;3;bas de gamme
+xiaomi;redmi note 8;6.3;48;4000;179;64;4;bas de gamme
+samsung;galaxy m11;6.4;13;5000;130;32;3;bas de gamme
+oppo;a54;6.5;13;5000;199;64;4;bas de gamme
+vivo;y20s;6.5;13;5000;249;128;8;bas de gamme
+realme;c11;6.5;13;5000;99;32;2;bas de gamme
+nokia;2.4;6.5;8;4500;129;32;2;bas de gamme
+xiaomi;redmi 9;6.5;13;5020;149;64;4;bas de gamme
+samsung;galaxy a11;6.4;13;4000;129;32;2;bas de gamme
+oppo;a12;6.2;13;4230;139;64;4;bas de gamme
+vivo;y20g;6.5;13;5000;229;128;6;bas de gamme
+realme;c15;6.5;13;6000;179;64;4;bas de gamme
+nokia;3.1 plus;6.5;13;3500;139;32;3;bas de gamme
+xiaomi;redmi note 7;6.3;48;4000;159;64;4;bas de gamme
+samsung;galaxy a12;6.5;48;5000;179;64;4;bas de gamme
+oppo;a31;6.5;12;4230;199;128;4;bas de gamme
+vivo;y15;6.3;13;5000;189;64;4;bas de gamme
+realme;narzo 10a;6.5;12;5000;129;32;3;bas de gamme
+xiaomi;redmi 9t;6.5;48;6000;229;128;4;bas de gamme
+samsung;galaxy a30s;6.4;25;4000;279;64;4;bas de gamme
+samsung;galaxy note 20 ultra;6.9;108;4500;1299;256;12;haut de gamme
+apple;iphone se (2020);4.7;12;1821;399;64;3;moyenne gamme
+xiaomi;poco x3 pro;6.6;48;5160;249;128;6;bas de gamme
+google;pixel 5;6.0;12;4080;699;128;8;moyenne gamme
+huawei;mate 40 pro;6.7;50;4400;1199;256;8;haut de gamme
+oneplus;nord n10 5g;6.4;64;4300;299;128;6;bas de gamme
+oppo;reno 5 pro 5g;6.5;64;4350;449;128;8;moyenne gamme
+samsung;galaxy a71;6.7;64;4500;599;128;6;moyenne gamme
+nokia;8.3 5g;6.8;64;4500;499;128;8;moyenne gamme
+apple;iphone 11 pro max;6.5;12;3969;1099;512;4;haut de gamme
+xiaomi;mi 11;6.8;108;4600;749;256;8;haut de gamme
+motorola;moto g power (2021);6.6;48;5000;199;64;4;bas de gamme
+google;pixel 4a 5g;6.2;12;3885;499;128;6;moyenne gamme
+huawei;nova 8 pro 5g;6.7;64;4000;699;128;8;moyenne gamme
+samsung;galaxy a52;6.5;64;4500;449;128;6;moyenne gamme
+oneplus;8t;6.5;48;4500;749;256;12;haut de gamme
+xiaomi;redmi 9;6.5;13;5020;149;64;4;bas de gamme
+apple;iphone 13;6.1;12;2815;799;128;6;haut de gamme
+oppo;a15s;6.5;13;4230;159;64;4;bas de gamme
+nokia;g50 5g;6.8;48;4850;299;128;4;bas de gamme
+apple;iphone xr;6.1;12;2942;599;64;3;moyenne gamme
+samsung;galaxy s21 ultra 5g;6.8;108;5000;1199;256;12;haut de gamme
+xiaomi;redmi note 10 pro;6.6;108;5020;279;128;6;bas de gamme
+oppo;find x3 neo 5g;6.5;50;4500;899;256;12;haut de gamme
+huawei;p40 pro;6.5;50;4200;1099;256;8;haut de gamme
+oneplus;9 pro;6.7;48;4500;969;256;12;haut de gamme
+motorola;moto g stylus (2021);6.4;48;4000;299;128;4;bas de gamme
+google;pixel 4;5.7;12;2800;799;128;6;haut de gamme
+samsung;galaxy a12;6.5;48;5000;179;128;4;bas de gamme
+nokia;5.4;6.3;48;4000;179;64;4;bas de gamme
+apple;iphone 12;6.1;12;2815;799;128;4;haut de gamme
+xiaomi;redmi 10;6.5;50;5000;229;128;4;bas de gamme
+oppo;a94 5g;6.4;48;4310;399;128;8;moyenne gamme
+huawei;nova 9 pro 5g;6.7;50;4500;699;256;8;moyenne gamme
+samsung;galaxy s10 lite;6.7;48;4500;649;128;6;moyenne gamme
+oneplus;8 pro;6.7;48;4510;999;256;12;haut de gamme
+nokia;7.2;6.3;48;3500;349;128;6;moyenne gamme
+xiaomi;mi 10t pro;6.6;108;5000;599;256;8;moyenne gamme
+apple;iphone 11;6.1;12;3110;699;64;4;moyenne gamme
+oppo;f19 pro+ 5g;6.4;64;4310;419;128;8;moyenne gamme
+motorola;moto g power (2021);6.6;48;5000;199;64;3;bas de gamme
+samsung;galaxy a71;6.7;64;4500;399;128;6;moyenne gamme
+huawei;mate 30 pro 5g;6.5;40;4500;1099;256;8;haut de gamme
+xiaomi;poco x3 pro;6.6;48;5160;249;128;6;bas de gamme
+google;pixel 5;6.0;12;4080;699;128;8;moyenne gamme
+apple;iphone se (2020);4.7;12;1821;399;64;3;moyenne gamme
+samsung;galaxy m51;6.7;64;7000;449;128;6;moyenne gamme
+oppo;reno4 pro 5g;6.5;48;4000;799;256;12;haut de gamme
+nokia;3.4;6.3;13;4000;179;64;4;bas de gamme
+motorola;moto g9 plus;6.8;64;5000;279;128;4;bas de gamme
+apple;iphone xs max;6.5;12;3174;1099;256;4;haut de gamme
+samsung;galaxy a32 5g;6.5;48;5000;279;128;4;bas de gamme
+xiaomi;redmi note 9s;6.6;48;5020;249;128;6;bas de gamme
+oppo;a92;6.5;48;5000;399;128;8;moyenne gamme
+huawei;p30 pro;6.4;40;4200;999;256;8;haut de gamme
+samsung;galaxy s20 fe 5g;6.5;12;4500;699;128;6;moyenne gamme
+oneplus;7 pro;6.6;48;4000;699;256;8;moyenne gamme
+nokia;6.2;6.3;16;3500;249;128;4;bas de gamme
+xiaomi;mi 10t lite;6.6;64;4820;279;128;6;bas de gamme
+apple;iphone 8 plus;5.5;12;2691;699;64;3;moyenne gamme
+oppo;a53;6.5;13;5000;249;128;4;bas de gamme
+motorola;moto g8 power;6.4;16;5000;229;64;4;bas de gamme
+huawei;nova 7i;6.4;48;4200;329;128;8;moyenne gamme
+samsung;galaxy s21+ 5g;6.7;12;4800;999;256;8;haut de gamme
+xiaomi;mi 11 lite;6.5;64;4250;399;128;6;moyenne gamme
+nokia;8.3 5g;6.8;64;4500;499;128;8;moyenne gamme
+oneplus;nord;6.4;48;4115;449;128;8;moyenne gamme
+apple;iphone xr;6.1;12;2942;499;64;3;moyenne gamme
+samsung;galaxy a12;6.5;48;5000;179;128;4;bas de gamme
+oppo;a94 5g;6.4;48;4310;399;128;8;moyenne gamme
+xiaomi;redmi 9t;6.5;48;6000;199;128;4;bas de gamme
+motorola;moto g10;6.5;48;5000;199;128;4;bas de gamme
+samsung;galaxy a52 5g;6.5;64;4500;449;128;6;moyenne gamme
+huawei;p40 pro+;6.5;50;4200;1399;512;8;haut de gamme
+apple;iphone 11 pro max;6.5;12;3969;1099;64;4;haut de gamme
+samsung;galaxy note20 5g;6.7;12;4300;999;256;8;haut de gamme
+xiaomi;poco m3;6.5;48;6000;179;128;4;bas de gamme
+nokia;5.4;6.3;48;4000;179;64;4;bas de gamme
+oppo;find x3 neo 5g;6.5;50;4500;799;256;12;haut de gamme
+samsung;galaxy s20 ultra 5g;6.9;108;5000;1399;512;16;haut de gamme
+xiaomi;redmi note 9s;6.6;48;5020;229;128;6;bas de gamme
+apple;iphone 12 mini;5.4;12;2227;899;256;4;haut de gamme
+samsung;galaxy a21s;6.5;48;5000;199;128;6;bas de gamme
+oneplus;9;6.5;48;4500;729;128;8;haut de gamme
+motorola;moto g9 power;6.8;64;6000;229;128;4;bas de gamme
+samsung;galaxy z fold2 5g;7.6;12;4500;1999;256;12;haut de gamme
+xiaomi;mi 10t pro 5g;6.6;108;5000;599;128;8;moyenne gamme
+oppo;reno4 pro 5g;6.5;48;4000;799;256;12;haut de gamme
+huawei;p40 pro;6.5;50;4200;999;256;8;haut de gamme
+samsung;galaxy s20 fe 5g;6.5;12;4500;699;128;6;moyenne gamme
+nokia;2.4;6.5;13;4500;139;32;2;bas de gamme
+apple;iphone se (2020);4.7;12;1821;449;128;3;moyenne gamme
+xiaomi;redmi 9c;6.5;13;5000;119;64;3;bas de gamme
+samsung;galaxy a32 5g;6.5;48;5000;279;128;4;bas de gamme
+oneplus;nord n10 5g;6.4;64;4300;299;128;6;bas de gamme
+huawei;y7p;6.3;48;4000;199;64;4;bas de gamme
+apple;iphone 12 pro;6.1;12;2815;999;128;6;haut de gamme
+samsung;galaxy a42 5g;6.6;48;5000;329;128;4;moyenne gamme
+xiaomi;redmi note 10 pro;6.6;108;5020;329;128;6;moyenne gamme
+samsung;galaxy s21;6.2;64;4000;799;128;8;haut de gamme
+apple;iphone 11;6.1;12;3110;749;128;4;haut de gamme
+xiaomi;redmi 9t;6.5;48;6000;199;128;4;bas de gamme
+google;pixel 5;6.0;12;4080;699;128;8;moyenne gamme
+huawei;nova 7i;6.4;48;4200;349;128;8;moyenne gamme
+samsung;galaxy s20 ultra 5g;6.9;108;5000;1199;128;12;haut de gamme
+oneplus;8t;6.5;48;4500;749;128;8;haut de gamme
+motorola;moto g8 power;6.4;16;5000;199;64;4;bas de gamme
+realme;7;6.5;64;5000;299;128;8;bas de gamme
+apple;iphone xr;6.1;12;2942;599;128;3;moyenne gamme
+xiaomi;poco m3;6.5;48;6000;149;128;4;bas de gamme
+samsung;galaxy a52 5g;6.5;64;4500;449;128;6;moyenne gamme
+oppo;a93;6.4;48;4000;319;128;8;moyenne gamme
+motorola;moto g pro;6.4;48;4000;329;128;4;moyenne gamme
+huawei;p30 lite;6.1;48;3340;329;128;4;moyenne gamme
+samsung;galaxy note20 5g;6.7;12;4300;1049;128;8;haut de gamme
+xiaomi;mi 10 lite 5g;6.5;48;4160;349;128;6;moyenne gamme
+apple;iphone 12 pro max;6.7;12;3687;1099;128;6;haut de gamme
+oppo;reno3;6.4;48;4025;429;128;8;moyenne gamme
+samsung;galaxy s10 lite;6.7;48;4500;649;128;6;moyenne gamme
